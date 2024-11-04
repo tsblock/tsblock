@@ -6,4 +6,4 @@ Hi! I'm tsblock, currently studying Computer Science in [HKUST](https://hkust.ed
 
 Things I have used more than once:
 
-![](https://skillicons.dev/icons?i=python,js,java,cpp,latex,md,obsidian,arch,apple,git,vim)
+![](https://skillicons.dev/icons?i=python,js,java,cpp,latex,md,obsidian,arch,apple,git,vim,emacs)
