@@ -1,6 +1,6 @@
 ## 👋
 
-Hi! I'm tsblock, currently studying Computer Science in [HKUST](https://hkust.edu.hk). I'm still figuring things out, so not much to see here.
+Hi! I'm tsblock, currently studying Computer Science at [HKUST](https://hkust.edu.hk). I'm still figuring things out, so not much to see here.
 
 ---
 
